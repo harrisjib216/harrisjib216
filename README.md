@@ -26,9 +26,9 @@ At [Club](https://club.com) I'm the Technical Engineering Manager. I set the dir
 
 **[fastpp](https://github.com/harrisjib216/fastpp)**: find a faster library than the one you're using. Over 3,000 libraries that beat the usual defaults (the C++ standard library, zlib, OpenSSL, malloc, CPython), each with its published benchmark, the baseline it beats, and the catch. Every claim is graded A to D on how far it can be trusted, and 43 didn't make it in. Built as a Python pipeline with Claude Code. Swift and Android editions are next.
 
-#### Under the hood
+**[jos](https://github.com/harrisjib216/jos)**: an operating system with its own boot loader that gets into 32-bit protected mode.
 
-For fun I go below the app. [jos](https://github.com/harrisjib216/jos) is an operating system with its own boot loader that gets into 32-bit protected mode. [My-Programming-Languages](https://github.com/harrisjib216/My-Programming-Languages) holds a bytecode VM in C (built through *Crafting Interpreters*), a Python-like language compiled with LLVM, and a small compiler that emits x86 assembly.
+**[My-Programming-Languages](https://github.com/harrisjib216/My-Programming-Languages)**: a bytecode VM in C (built through *Crafting Interpreters*), a Python-like language compiled with LLVM, and a small compiler that emits x86 assembly.
 
 #### At work
 
