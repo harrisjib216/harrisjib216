@@ -35,4 +35,3 @@ At [Club](https://club.com) I'm the Technical Engineering Manager. I set the dir
 - **Club:** built the prototype in under 90 days. It became the app we launched on the App Store and Google Play, and I was promoted to lead the team about six months in.
 - **Meta:** shipped the collaborator post header to every Facebook user on Android, and rebuilt collaborator search, taking its success rate from 25% to 80%.
 - **UX Cabin:** proposed chat with video, photo, audio, and location for an emergency management app (10,000+ installs on Google Play), then built it. Also got a Philips Hue lamp to show whether someone is free, through a Core Bluetooth module that writes to the lamp's undocumented GATT characteristics.
-- **World Group:** fixed a bug inside Microsoft's authentication package by changing its native code.
