@@ -24,7 +24,7 @@ At [Club](https://club.com) I'm the Technical Engineering Manager. I set the dir
 
 #### What I'm building
 
-**[fastpp](https://github.com/harrisjib216/fastpp)**: find a faster library than the one you're using. Over 3,000 libraries that beat the usual defaults (the C++ standard library, zlib, OpenSSL, malloc, CPython), each with its published benchmark, the baseline it beats, and the catch. Every claim is graded A to D on how far it can be trusted, and 43 didn't make it in. Built as a Python pipeline with Claude Code. Swift and Android editions are next.
+**[fastpp](https://github.com/harrisjib216/fastpp)**: find a faster library than the one you're using. Over 3,000 libraries that beat the usual defaults (the C++ standard library, zlib, OpenSSL, malloc, CPython), each with its published benchmark, the baseline it beats, and the catch. Every claim is graded A to D on how far it can be trusted. Built as a Python pipeline with Claude Code. Swift and Android editions are next.
 
 **[jos](https://github.com/harrisjib216/jos)**: an operating system with its own boot loader that gets into 32-bit protected mode.
 
