@@ -24,7 +24,11 @@ At [Club](https://club.com) I'm the Technical Engineering Manager. I set the dir
 
 #### What I'm building
 
-**[fastpp](https://github.com/harrisjib216/fastpp)**: find a faster library than the one you're using. Over 3,000 libraries that beat the usual defaults (the C++ standard library, zlib, OpenSSL, malloc, CPython), each with its published benchmark, the baseline it beats, and the catch. Every claim is graded A to D on how far it can be trusted. Built as a Python pipeline with Claude Code. Swift and Android editions are next.
+**[WorkoutScript](https://github.com/harrisjib216/WorkoutScript)**: write Apple Watch interval workouts as text. `6x { 800m @ 3:50-4:00/km, recover 400m }` compiles to WorkoutKit's `CustomWorkout`, and mistakes get swiftc-style errors with fix-its. Comes with a SwiftUI editor that shows the workout's shape as you type and hands it to the Watch.
+
+**[fastpp](https://github.com/harrisjib216/fastpp)**: find a faster library than the one you're using. Over 3,000 libraries that beat the usual defaults (the C++ standard library, zlib, OpenSSL, malloc, CPython), each with its published benchmark, the baseline it beats, and the catch. Every claim is graded A to D on how far it can be trusted. Built as a Python pipeline with Claude Code.
+
+**[fastswift](https://github.com/harrisjib216/fastswift)**: the same for Swift. JSONDecoder, NSLock, Core Data, Auto Layout and other defaults, against the libraries that claim to beat them. Every quote is re-checked against its source by a Swift tool, and 14 claims don't hold up, often because Apple's default caught up.
 
 **[jos](https://github.com/harrisjib216/jos)**: an operating system with its own boot loader that gets into 32-bit protected mode.
 
