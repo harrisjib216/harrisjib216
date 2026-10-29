@@ -24,17 +24,17 @@ At [Club](https://club.com) I'm the Technical Engineering Manager. I set the dir
 
 #### What I'm building
 
+**[fastplusplus](https://github.com/harrisjib216/fastplusplus)**: find a faster library than the one you're using. Over 3,000 libraries that beat the usual defaults (the C++ standard library, zlib, OpenSSL, malloc, CPython), each with its published benchmark, the baseline it beats, and the catch. Every claim is graded A to D on how far it can be trusted. Built as a Python pipeline with Claude Code.
+
+**[fastrust](https://github.com/harrisjib216/fastrust)**: the same for Rust. 134 crates, standard-library changes and build settings against serde_json, std's HashMap, Mutex, the default linker and more, checked by a Rust tool. 16 claims don't hold up, many because the standard library absorbed the crate: parking_lot is now slower than std's Mutex under heavy contention.
+
+**[NoGaps](https://github.com/harrisjib216/NoGaps)**: the shortest workout that closes today's Activity rings, worked out from how fast your own workouts burn energy and sent to Apple Watch, with a widget that rises in the Smart Stack as the evening runs out. Replay any workout by scrubbing its heart-rate and pace charts while a marker runs the route, and read an on-device recap whose every number is checked against the workout.
+
 **[WorkoutScript](https://github.com/harrisjib216/WorkoutScript)**: write Apple Watch interval workouts as text. `6x { 800m @ 3:50-4:00/km, recover 400m }` compiles to WorkoutKit's `CustomWorkout`, and mistakes get swiftc-style errors with fix-its. Comes with a SwiftUI editor that shows the workout's shape as you type and hands it to the Watch.
 
 **[Immerse](https://github.com/harrisjib216/Immerse)**: a social feed in the language you're learning, where every post is written on the iPhone by Apple Intelligence, at your level. Tap a word to see what it means in that sentence, reply to anyone and they answer, and save words: the people in your feed start using them. Built on Foundation Models, NaturalLanguage and Translation, with no server.
 
-**[NoGaps](https://github.com/harrisjib216/NoGaps)**: the shortest workout that closes today's Activity rings, worked out from how fast your own workouts burn energy and sent to Apple Watch, with a widget that rises in the Smart Stack as the evening runs out. Replay any workout by scrubbing its heart-rate and pace charts while a marker runs the route, and read an on-device recap whose every number is checked against the workout.
-
-**[fastplusplus](https://github.com/harrisjib216/fastplusplus)**: find a faster library than the one you're using. Over 3,000 libraries that beat the usual defaults (the C++ standard library, zlib, OpenSSL, malloc, CPython), each with its published benchmark, the baseline it beats, and the catch. Every claim is graded A to D on how far it can be trusted. Built as a Python pipeline with Claude Code.
-
 **[fastswift](https://github.com/harrisjib216/fastswift)**: the same for Swift. JSONDecoder, NSLock, Core Data, Auto Layout and other defaults, against the libraries that claim to beat them. Every quote is re-checked against its source by a Swift tool, and 14 claims don't hold up, often because Apple's default caught up.
-
-**[fastrust](https://github.com/harrisjib216/fastrust)**: and for Rust. 134 crates, standard-library changes and build settings against serde_json, std's HashMap, Mutex, the default linker and more, checked by a Rust tool. 16 claims don't hold up, many because the standard library absorbed the crate: parking_lot is now slower than std's Mutex under heavy contention.
 
 **[jos](https://github.com/harrisjib216/jos)**: an operating system with its own boot loader that gets into 32-bit protected mode.
 
